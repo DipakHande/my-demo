@@ -5,7 +5,7 @@ import Header from "../Components/Header/Header";
 const Aboutpage = () => {
     return(
         <div>
-            <Header/>
+            <Headerr/>
              <h1>About Vivekanand College</h1>
                     
             <p>
