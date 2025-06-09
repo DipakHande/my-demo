@@ -2,10 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Header from "../Components/Header/Header";
 
-const Aboutpage = () => {
+const AboutPage = () => {
     return(
         <div>
-            <Headerr/>
+            <Header />
              <h1>About Vivekanand College</h1>
                     
             <p>
@@ -47,4 +47,4 @@ const Aboutpage = () => {
     )
 }
 
-export default Aboutpage;
+export default AboutPage;
