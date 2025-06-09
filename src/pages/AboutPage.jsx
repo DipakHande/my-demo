@@ -2,10 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 import Header from "../Components/Header/Header";
 
+
 const AboutPage = () => {
     return(
         <div>
-            <Header />
+           <Header />
              <h1>About Vivekanand College</h1>
                     
             <p>
